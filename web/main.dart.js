@@ -86767,7 +86767,7 @@ case 1:return A.R(p,r)}})
 return A.T($async$qY,r)},
 X(a){var s,r,q=this,p=null,o=q.gcN(),n=$.eM(),m=o.H2(n,t.a4)
 o=m.dx
-s=o?B.XN:B.XS
+s=o?B.XM:B.XS
 r=t.F
 n=A.akM(!o?A.b([new A.dN(B.lZ,A.q8(A.eC(""+q.gcN().ck(0,n.gd5(),t.Ix).Qu()+"/"+J.bl(m.b),B.VB),p,p),p),new A.dN(B.lZ,A.q8(A.eC("["+m.ay+"]  ",B.UO),p,p),p),A.lC(p,B.aH,B.Ep,20,new A.agm(q,a),B.ad,p,"Boite \xe0 Images"),A.lC(p,B.aH,B.Es,20,q.gabd(),B.ad,p,"Voir le puzzle"),A.lC(p,B.aH,B.Eq,20,q.ga8G(),B.ad,p,"Choisir une image"),A.lC(p,B.aH,B.El,20,q.gab4(),B.ad,p,"Prendre une photo"),A.lC(p,B.aH,B.Et,20,q.gaa8(),B.ad,p,"Sauvegarder le puzzle"),A.lC(p,B.aH,B.Em,20,q.ga6X(),B.ad,p,"Charger un puzzle"),A.lC(p,B.aH,B.En,20,new A.agn(a),B.ad,p,"Param\xe8tres"),A.lC(p,B.aH,B.Er,20,new A.ago(a,m),B.ad,p,"Infos Image")],r):A.b([],r),s)
 r=A.b([],r)
@@ -86906,7 +86906,7 @@ X(a){var s,r,q=this,p=null,o=q.gcN().H2($.eM(),t.a4),n=A.akM(p,A.eC(q.w?"reDecou
 m=A.asO(6,B.b.j(m),8,2,new A.adA(q,o),m)
 s=o.f
 r=t.F
-return A.asv(n,new A.dN(B.Dv,A.XR(A.b([l,m,B.yk,A.eC("Cubes par Colonne: "+s,p),A.asO(6,B.b.j(s),8,2,new A.adB(q,o),s),B.yk,A.Lp(A.b([A.aqj(B.XQ,new A.adC(q,a)),A.aqj(B.XM,new A.adD(q,a))],r),B.cw,B.ja,B.cK)],r),B.eO,B.br,B.cK),p))}}
+return A.asv(n,new A.dN(B.Dv,A.XR(A.b([l,m,B.yk,A.eC("Cubes par Colonne: "+s,p),A.asO(6,B.b.j(s),8,2,new A.adB(q,o),s),B.yk,A.Lp(A.b([A.aqj(B.XQ,new A.adC(q,a)),A.aqj(B.XN,new A.adD(q,a))],r),B.cw,B.ja,B.cK)],r),B.eO,B.br,B.cK),p))}}
 A.adA.prototype={
 $1(a){var s=this.a.gcN().ck(0,$.eM().gd5(),t.Ix),r=B.c.p(a)
 J.v3(s,s.f.Qs(r,this.b.f,!0))},
@@ -93492,9 +93492,9 @@ B.WR=new A.p(!0,B.I,null,"Roboto",B.J,null,null,null,null,null,null,null,null,nu
 B.Wf=new A.p(!0,B.n,null,"Roboto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.Wp=new A.p(!0,B.n,null,"Roboto",B.J,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.XK=new A.dr(B.Xc,B.Ui,B.Vj,B.We,B.Wr,B.TJ,B.UT,B.TN,B.VZ,B.WE,B.Vt,B.WG,B.WR,B.Wf,B.Wp)
-B.XM=new A.fb("R\xe9initialiser",null,null,null,null)
 B.UP=new A.p(!0,B.jf,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.XN=new A.fb("D\xe9coupage en cours...v7.2219",null,B.UP,null,null)
+B.XM=new A.fb("D\xe9coupage en cours...v72307",null,B.UP,null,null)
+B.XN=new A.fb("R\xe9initialiser",null,null,null,null)
 B.XO=new A.fb("Fermer",null,null,null,null)
 B.XP=new A.fb("72305",null,null,null,null)
 B.XQ=new A.fb("Appliquer",null,null,null,null)
